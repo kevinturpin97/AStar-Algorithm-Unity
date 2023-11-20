@@ -107,12 +107,9 @@ public class Move : MonoBehaviour
             }
 
             openList.Add(playerPosition);
-            int maxIteration = 0;
 
             while (openList.Count > 0)
             {
-                maxIteration++;
-
                 if (openList.Count == 0)
                 {
                     Debug.Log("No solution");
