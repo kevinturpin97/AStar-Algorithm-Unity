@@ -8,6 +8,6 @@ This is a simple implementation of the A* Algorithm in Unity. It is not the most
 
 If you like it, please leave a star 🌟 :)
 
-[https://i.ibb.co/m0sx0WR/ezgif-4-c4b4f742ff.gif](https://i.ibb.co/m0sx0WR/ezgif-4-c4b4f742ff.gif)
+![Demo](https://i.ibb.co/m0sx0WR/ezgif-4-c4b4f742ff.gif)
 
 <small>Kévin TURPIN</small>
